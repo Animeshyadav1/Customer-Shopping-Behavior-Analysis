@@ -2,7 +2,8 @@
 
 An end-to-end data analytics project covering data cleaning (Python), business-question analysis (SQL), and an interactive Power BI dashboard — built on a retail customer transactions dataset of ~3,900 records.
 
-![Dashboard Preview](images/dashboard_screenshot.png)
+![Dashboard Preview](<img width="1165" height="653" alt="dashboard_screenshot" src="https://github.com/user-attachments/assets/66ef256a-5f97-4e48-8d5c-78f9e3131eed" />
+)
 
 ## Project Overview
 
