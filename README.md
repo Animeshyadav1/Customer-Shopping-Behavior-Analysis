@@ -93,4 +93,4 @@ An interactive dashboard (`powerbi/customer_behavior_dashboard.pbix`) was built 
 ## Author
 
 **Animesh Yadav**
-[GitHub](https://github.com/Animeshyadav1) | [LinkedIn](https://linkedin.com/in/animeshyadav)
+[GitHub](https://github.com/Animeshyadav1) | [LinkedIn](https://www.linkedin.com/in/animesh-yadav-/)
