@@ -30,16 +30,12 @@ This project analyzes customer shopping behavior across demographics, product ca
 
 Customer-Shopping-Behavior-Analysis/
 ├── README.md
-├── data/
-│   └── customer_shopping_behavior.csv
-├── notebook/
-│   └── Customer_shopping_behaviour_analysis.ipynb
-├── sql/
-│   └── customer_behaviour_analysis_queries.sql
-├── powerbi/
-│   └── customer_behavior_dashboard.pbix
-└── images/
+├── customer_shopping_behavior.csv
+├── Customer_shopping_behaviour_analysis.ipynb
+├── customer_behaviour_analysis_queries.sql
+├── customer_behavior_dashboard.pbix
 └── dashboard_screenshot.png
+
 
 ## 1. Data Cleaning & Feature Engineering (Python)
 
